@@ -1,0 +1,13 @@
+# github.com/ctcpip/notifize v1.0.0
+github.com/ctcpip/notifize
+# github.com/emersion/go-vcard v0.0.0-20190105225839-8856043f13c5
+github.com/emersion/go-vcard
+# github.com/mediocregopher/radix/v3 v3.4.0
+github.com/mediocregopher/radix/v3
+github.com/mediocregopher/radix/v3/internal/bytesutil
+github.com/mediocregopher/radix/v3/resp
+github.com/mediocregopher/radix/v3/resp/resp2
+github.com/mediocregopher/radix/v3/trace
+# golang.org/x/xerrors v0.0.0-20190717185122-a985d3407aa7
+golang.org/x/xerrors
+golang.org/x/xerrors/internal
