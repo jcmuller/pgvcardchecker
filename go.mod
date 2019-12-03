@@ -1,4 +1,4 @@
-module github.com/jcmuller/vcfchecker
+module github.com/jcmuller/pdvcardchecker
 
 go 1.13
 
